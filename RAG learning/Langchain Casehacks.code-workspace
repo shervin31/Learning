@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Langchain Casehacks"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../RAG Chatbot"
+		}
+	],
+	"settings": {}
+}
